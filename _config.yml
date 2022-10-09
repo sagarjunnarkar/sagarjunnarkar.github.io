@@ -23,8 +23,8 @@ disqus_shortname: sagarjunnarkargithubio
 github_username: sagarjunnarkar
 stackoverflow_id: 1337996
 twitter_username: sagarjunnarkar
-google_plus_id: 106258922885853526501
-linkedin_username:
+google_plus_id:
+linkedin_username: sagar-j-98488218
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -56,3 +56,4 @@ sass:
   compressed: true
 gems:
   - jekyll-sitemap
+plugins: [jekyll-paginate]
